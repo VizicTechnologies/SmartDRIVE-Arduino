@@ -10,7 +10,7 @@
 Be sure to place first the SmartDRIVE library, the entire folder(SmartDRIVE)
 place it in the arduino root:
 
-arduino-00XX\arduino-00XX\libraries\SMARTDRIVE
+Program Files\Arduino\Libraries\SMARTDRIVE
 
 restart arduino to recognize the library and enjoy!
 
