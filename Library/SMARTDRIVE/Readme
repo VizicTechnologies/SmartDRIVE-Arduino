@@ -1,0 +1,25 @@
+
+/**************************************************************/
+  SMARTDRIVE ARDUINO 1.0 LIBRARY V1
+
+This library help the user to communicate the SMARTDRIVE BOARD with the arduino board, be sure to check pinout while connecting the SMARTDRIVE!
+
+
+Where to place this entire folder(SMARTDRIVE)?
+
+place it in the arduino PC root:
+
+Arduino\arduino-1.0.1\libraries\SMARTDRIVE
+
+restart arduino to recognize the library and enjoy!
+
+be sure to check out all the SMARTDRIVE examples 100% ready to compile and load in our website
+/**************************************************************/
+
+SMARTDRIVE board:
+https://www.vizictechnologies.com/product-page/smartdrive-datalogger-processor
+
+VIZIC TECHNOLOGIES Copyright 2019
+
+www.vizictechnologies.com
+/**************************************************************/
