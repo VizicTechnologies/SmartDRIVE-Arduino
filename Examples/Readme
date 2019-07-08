@@ -1,0 +1,26 @@
+
+/**************************************************************/
+  SmartDRIVE ARDUINO 1.0 EXAMPLES
+
+/Those examples help the user to communicate the SmartDRIVE BOARD with the arduino board
+
+/All examples require pre-loaded files on the microSD card!
+
+/**************************************************************/
+Be sure to place first the SmartDRIVE library, the entire folder(SmartDRIVE)
+place it in the arduino root:
+
+arduino-00XX\arduino-00XX\libraries\SMARTDRIVE
+
+restart arduino to recognize the library and enjoy!
+
+be sure to check out all the SmartDRIVE examples 100% ready to compile
+/**************************************************************/
+
+SMARTDRIVE board:
+https://www.vizictechnologies.com/product-page/smartdrive-datalogger-processor
+
+VIZIC TECHNOLOGIES Copyright 2019
+
+www.vizictechnologies.com
+/**************************************************************/
