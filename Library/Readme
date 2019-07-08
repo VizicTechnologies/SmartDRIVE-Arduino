@@ -1,0 +1,7 @@
+Where to place this entire folder(SMARTDRIVE)?
+
+place it in the arduino C:/ installation folder path:
+
+\arduino\libraries\SMARTDRIVE
+
+restart arduino IDE to recognize the library and enjoy!
