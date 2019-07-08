@@ -1,0 +1,60 @@
+#######################################
+# Syntax Coloring Map For SMART DRIVE
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SMARTDRIVE	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+//Arduino Exclusive
+init	KEYWORD2
+reset	KEYWORD2
+
+//Master Functions
+mountUnmountDrive	KEYWORD2
+sleepInOut	KEYWORD2
+
+//General Functions
+masterBaudChange	KEYWORD2
+secondaryBaudChange	KEYWORD2
+getBytesSecUSART	KEYWORD2
+sendBytesSecUSART	KEYWORD2
+getADC	KEYWORD2
+setPWMFreq	KEYWORD2
+setPWMDuty	KEYWORD2
+
+//FAT File System Functions
+getList	KEYWORD2
+getDirName	KEYWORD2
+getFileName	KEYWORD2
+getDirPath	KEYWORD2
+newDir	KEYWORD2
+newFile	KEYWORD2
+openDir	KEYWORD2
+openFile	KEYWORD2
+closeFile	KEYWORD2
+saveFile	KEYWORD2
+setFilePointer	KEYWORD2
+getFilePointer	KEYWORD2
+readFile	KEYWORD2
+writeFile	KEYWORD2
+testFileError	KEYWORD2
+testFileEnd	KEYWORD2   
+truncateFile	KEYWORD2   
+eraseDirFile	KEYWORD2
+setFileTimeDate	KEYWORD2
+getFileTimeDate	KEYWORD2
+getFileSize	KEYWORD2
+renameMoveDirFile	KEYWORD2
+copyFile	KEYWORD2
+getFreeTotalSpace	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
